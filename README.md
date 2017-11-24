@@ -1,2 +1,2 @@
 # pipenv-ubuntu
-Ubuntu based images with python and pipenv
+Ubuntu based image with preinstalled python and pipenv.
